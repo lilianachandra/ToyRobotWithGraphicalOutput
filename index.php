@@ -7,8 +7,8 @@
 
 <body>
 <form name="frmNew" action="" method="post">
-	<link href="css/main.css" rel="stylesheet" />
-	<script type="text/javascript" src="js/jquery.1.10.2.js"></script>
+	<link href="main.css" rel="stylesheet" />
+	<script type="text/javascript" src="jquery.1.10.2.js"></script>
 	
     <div class="viewport">
         
